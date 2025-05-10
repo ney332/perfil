@@ -41,3 +41,17 @@
     margin-left: 80px;
     margin-top: 60px;
 }
+.projetos{
+    height: 50%;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+   
+}
+.card{
+    background-color: #f4f4f4;
+    width: 200px;
+    height: 220px;
+}
